@@ -1,5 +1,4 @@
 from example import add, subtract
-from numpy import polyfit
 
 
 def test_ex_add():
